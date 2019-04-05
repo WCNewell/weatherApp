@@ -1,0 +1,12 @@
+body {
+    padding: 1em;
+}
+
+h3 {
+    color: red;
+    padding: 0.5em;
+}
+
+.widget {
+    padding: 0.5em;
+}
